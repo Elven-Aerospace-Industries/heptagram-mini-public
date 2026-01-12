@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "laplace0_lite")(type "KiCad")(uri "${KIPRJMOD}/laplace0_lite.kicad_sym")(options "")(descr ""))
+  (lib (name "GY87")(type "KiCad")(uri "${KIPRJMOD}/GY87.kicad_sym")(options "")(descr ""))
+  (lib (name "L6388E")(type "KiCad")(uri "${KIPRJMOD}/L6388E.kicad_sym")(options "")(descr ""))
+)
